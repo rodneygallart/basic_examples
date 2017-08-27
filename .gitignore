@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+*.ipch
+*.ipch
+/HashMap/.vs/HashMap/v15
+/HashMap/Debug
+/.vs
